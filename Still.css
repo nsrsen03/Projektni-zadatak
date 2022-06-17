@@ -1,0 +1,48 @@
+@charset
+/* CSS Document */
+p {
+ 	color: lawngreen;
+	font-family: "Palatino Linotype";, Palatino, "Century Schoolbook L","Times New Roman", "serif";
+	font-size: 30px;
+	line-height: 20px;
+	width: 650px;
+	background-color: floralwhite;
+	padding: 35px;
+
+
+}
+
+img {
+	height: 300px;
+}
+
+
+h1,h2 {
+
+	color: black;
+       font-family: 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';
+       font-size: 25px;
+	   line-height: 20px;
+	   width: 650px;
+}	
+body{ 
+	    background-image: url("../Pozadina");
+}
+h3,h4,h5,h6,h7,h8,h9,h10,h11{ color: black;
+	font-family: 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';
+	font-size: 18px;
+	line-height: 13px;
+	width: 605px;
+	background-color: aqua;
+	padding: 2px;
+}
+h22 { 
+	color: darkgoldenrod;
+	font-family: "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 12px;
+	width: 650px;
+	background-color: aquamarine;
+	padding: 2px;
+}
+
